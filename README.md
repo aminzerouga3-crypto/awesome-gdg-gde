@@ -1,6 +1,6 @@
 # Awesome GDGs and GDEs of India 🚀
 
-A curated list of awesome resources, projects, toolkits, and learning paths for the **Google Developer Group** community in India.
+A curated list of awesome resources, projects, toolkits, and learning paths for the **Google Developer Group** and **Google Developer Experts** in India.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
